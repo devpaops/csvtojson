@@ -1,7 +1,7 @@
-Application code may be found under the "Application" folder
+Application code may be found under the "application" folder
 
 
-Infrastructure code may be found under the "Infrastructure" folder
+Infrastructure code may be found under the "infrastructure" folder
 
 
 There are separate folders for the kubernetes yaml files and the terraform code that creates the EKS cluster in AWS
